@@ -1,4 +1,4 @@
-# 🔐 Laravel Framework detect & Sensitive File Exposure Scanner
+# 🔐 Laravel Framework Detect & Sensitive File Exposure Scanner
 
 **Automated tool for detecting Laravel Framework and Sensitive File Exposure**
 
